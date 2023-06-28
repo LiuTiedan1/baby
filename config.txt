@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2002-12-21",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "我在星光里为你呐喊，最美好的岁月都与你有关！",
 # 金句英文
-"note_en": ""
+"note_en": "I shout for you in the starlight, the best years are all about you!"
 }
