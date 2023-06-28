@@ -13,7 +13,7 @@
 # 和风天气apikey
 "weather_key": "ef6a06550f424193a2f1263b38d5dcb3",
 # 天行数据apikey
-"tian_api": "粘贴自己的",
+"tian_api": "7d45982a99f564453d713b3ffd9f548c",
 # 所在地区
 "region": "石家庄",
 # 生日
