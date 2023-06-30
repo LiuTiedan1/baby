@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxb9f3fe423fddb0ff",
+# 公众号appSecret
+"app_secret": "a56960bf9b59122ce720867a22a469f5",
+# 模板消息id
+"template_id": "g9vRv0LiXZ6wcVSNSsah2uSx0OK7QbJq2wSclvfsXv4",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["orG4G6URXeTh2DWMnnbznkOqeLAc","orG4G6bjyAw_RCH6tGntYNbmto3g"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "ef6a06550f424193a2f1263b38d5dcb3",
+# 天行数据apikey
+"tian_api": "7d45982a99f564453d713b3ffd9f548c",
+# 所在地区
+"region": "济南",
+# 生日
+"birthday1": {"name": "笨笨", "birthday": "2006-06-09"},
+# 在一起的日子
+"love_date": "2023-06-30",
+# 金句中文
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
