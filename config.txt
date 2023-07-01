@@ -7,7 +7,7 @@
 # 模板消息id
 "template_id": "D8GdZexD_ctDMREApgl1pdwao3ZLuTWF4bp1gZMoT3c",
 # 推送微信号
-"user": ["orG4G6URXeTh2DWMnnbznkOqeLAc"],
+"user": ["orG4G6URXeTh2DWMnnbznkOqeLAc","orG4G6QRkLjOwjx96DDkGAnGfDv0"],
 
 # 信息配置
 # 和风天气apikey
