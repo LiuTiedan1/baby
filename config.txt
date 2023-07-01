@@ -6,7 +6,7 @@
 "app_secret": "a56960bf9b59122ce720867a22a469f5",
 # 模板消息id
 "template_id": "K2vC6r82fr11ULzDbSo32SkJIQxuWiL0HJK7rdjt-0U",
-# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+# 推送微信号
 "user": ["orG4G6URXeTh2DWMnnbznkOqeLAc","orG4G6QRkLjOwjx96DDkGAnGfDv0"],
 
 # 信息配置
@@ -17,7 +17,7 @@
 # 所在地区
 "region": "石家庄",
 # 生日
-"birthday1": {"name": "彤彤", "birthday": "2002-04-04"},
+"birthday1": {"name": "彤彤", "birthday": "2004-04-04"},
 # 在一起的日子
 "love_date": "2023-06-30",
 # 金句中文
