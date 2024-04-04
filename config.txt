@@ -1,0 +1,28 @@
+{
+    # 公众号配置
+    # 公众号appId
+    "app_id": "wxd8e28da4fc05f01a",
+    # 公众号appSecret
+    "app_secret": "9555c98707dc916a1cf5ce89019376b7",
+    # 模板消息id
+    "template_id": "G57akvdJXb95WzYbRQ5ZA1jHt41VlhY9_SieyzkE0qg",
+    # 推送微信号
+    "user": ["oqQJG6fQZumPvVB7CjL4v8hKeOXI"],
+
+    # 所在地区
+    "region": "陕西",
+    
+    # 信息配置
+    # 和风天气apikey
+    "weather_key": "ef6a06550f424193a2f1263b38d5dcb3",
+    # 天行数据apikey
+    "tian_api": "7d45982a99f564453d713b3ffd9f548c",
+    # 生日
+    "birthday1": {"name": "心心", "birthday": "2004-07-14"},
+    # 在一起的日子
+    "love_date": "2023-06-30",
+    # 金句中文
+    "note_ch": "",
+    # 金句英文
+    "note_en": ""
+}
