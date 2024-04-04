@@ -10,7 +10,7 @@
     "user": ["oqQJG6fQZumPvVB7CjL4v8hKeOXI"],
 
     # 所在地区
-    "region": "陕西",
+    "region": "石家庄",
     
     # 信息配置
     # 和风天气apikey
@@ -18,7 +18,7 @@
     # 天行数据apikey
     "tian_api": "7d45982a99f564453d713b3ffd9f548c",
     # 生日
-    "birthday1": {"name": "心心", "birthday": "2004-07-14"},
+    "birthday1": {"name": "铁蛋", "birthday": "2004-07-14"},
     # 在一起的日子
     "love_date": "2023-06-30",
     # 金句中文
